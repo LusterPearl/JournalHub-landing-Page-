@@ -11,19 +11,9 @@
     "eject": "react-scripts eject"
   },
   "author": {
-    "name": "Abdulrazzaq Adewale Liasu",
-    "email": "legennd48@gmail.com"
+    "name": "Oluwatosin Salami",
+    "email": "salamioluwatosin90@gmail.com"
   },
-  "contributors": [
-    {
-      "name": "Oluwatosin Salami",
-      "email": "salamioluwatosin90@gmail.com"
-    },
-    {
-      "name": "Monwabisi Ryan Ndlovu",
-      "email": "Monwabisindlovu78@gmail.com"
-    }
-  ],
   "license": "ISC",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
