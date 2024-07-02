@@ -1,0 +1,38 @@
+/* src/styles/Header.css */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #2c3e50; /* Navy background color */
+    color: #ecf0f1; /* Light gray text color */
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    transition: background-color 0.3s ease; /* Smooth background transition */
+}
+
+.header:hover {
+    background-color: #34495e; /* Slightly darker navy on hover */
+}
+
+.logo {
+    font-family: 'Pacifico', cursive; /* Pacifico font */
+    font-size: 2rem; /* Adjust size as needed */
+    color: #ffffff; /* White text color */
+}
+
+.navigation {
+    display: flex;
+    gap: 2rem;
+}
+
+.navigation a {
+    color: #ecf0f1; /* Light gray text color */
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease, transform 0.3s ease; /* Smooth color and transform transition */
+}
+
+.navigation a:hover {
+    color: #ffcc00; /* Accent color for hover */
+    transform: scale(1.05); /* Slightly enlarge on hover */
+}

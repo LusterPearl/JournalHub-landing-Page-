@@ -1,0 +1,16 @@
+/* src/styles/AboutUsSection.css */
+.about-us {
+    padding: 4rem 2rem;
+    background-color: #f4f4f4; /* Light background color */
+    text-align: center;
+}
+
+.about-us h2 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.about-us p {
+    font-size: 1.2rem;
+    color: #333; /* Dark text color */
+}

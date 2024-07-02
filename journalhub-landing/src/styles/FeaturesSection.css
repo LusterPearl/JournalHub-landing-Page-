@@ -1,0 +1,36 @@
+/* src/styles/FeaturesSection.css */
+.features {
+    padding: 4rem 2rem;
+    background-color: #ffffff; /* White background color */
+    text-align: center;
+}
+
+.features h2 {
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
+}
+
+.feature-list {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    flex-wrap: wrap; /* Ensure items wrap on smaller screens */
+}
+
+.feature-item {
+    background-color: #f4f4f4;
+    padding: 1rem;
+    border-radius: 5px;
+    width: 200px;
+    text-align: center;
+}
+
+.feature-item h3 {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.feature-item p {
+    font-size: 1rem;
+    color: #333;
+}

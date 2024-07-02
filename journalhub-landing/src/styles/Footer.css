@@ -1,0 +1,93 @@
+/* src/styles/Footer.css */
+.footer {
+    background-color: #282c34;
+    color: white;
+    padding: 2rem 0;
+    text-align: center;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 2rem;
+}
+
+.footer-section {
+    flex: 1;
+    padding: 1rem;
+}
+
+.logo-text {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.contact {
+    background-color: #444; /* Darker background for better visibility */
+    padding: 1rem;
+    border-radius: 5px;
+}
+
+.contact span {
+    display: block;
+    margin: 0.5rem 0;
+}
+
+.socials a {
+    margin: 0 0.5rem;
+    color: white;
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+
+.footer-section h2 {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+}
+
+.footer-section ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-section ul li {
+    margin-bottom: 0.5rem;
+}
+
+.footer-section ul li a {
+    color: white;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.footer-section ul li a:hover {
+    color: #ffcc00;
+}
+
+.contact-form .text-input {
+    width: 100%;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+    border: none;
+    border-radius: 5px;
+}
+
+.contact-form .btn {
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 5px;
+    background-color: #ffcc00;
+    color: #282c34;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.contact-form .btn:hover {
+    background-color: #ffa500;
+}
+
+.footer-bottom {
+    padding: 1rem 0;
+    font-size: 0.9rem;
+}
