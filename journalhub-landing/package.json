@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "private": true,
   "description": "JournalHub - A user-friendly web application for capturing and organizing your thoughts, ideas, and experiences",
-  "homepage": "https://LusterPearl.github.io/journalhub-landing",
-  "homepage": "https://LusterPearl.github.io/my-app",
+  "homepage": "https://LusterPearl.github.io/journalhub-landing-Page",
+  "homepage": "https://LusterPearl.github.io/JournaLHub-landing-Page",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
