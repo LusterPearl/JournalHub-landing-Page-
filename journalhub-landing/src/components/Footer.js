@@ -12,7 +12,7 @@ const Footer = () => {
                         Journal Hub is dedicated to providing the best journal management solutions.
                     </p>
                     <div className="contact">
-                        <span><i className="fas fa-phone"></i> &nbsp; 123-456-789</span>
+                        <span><i className="fas fa-phone"></i> &nbsp; 7065693933</span>
                         <span><i className="fas fa-envelope"></i> &nbsp; info@journalhub.com</span>
                     </div>
                     <div className="socials">
